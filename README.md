@@ -1,5 +1,7 @@
 # python-web-app
 
+Step 0: Install docker
+
 Step 1: Build the Docker Image
 Navigate to the directory containing your Dockerfile and app.py, and run the following command to build the Docker image:
 
